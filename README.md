@@ -67,14 +67,14 @@ nem
 </code></pre>
 <br/>
 Ember osztály felépítése
-<pre><code>public class Ember
-			
+<pre><code>	
 public class Ember
 {
 	public string Nev {get; set;}
 	public int Magassag {get; set;}
 	public int Eletkor {get; set;}
 	public bool BudapestiLakos {get; set;}
+	
 	public Ember(string nev, int magassag, int eletkor, bool budapesti)
 	{
 		Nev = nev;
