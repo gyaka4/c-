@@ -98,7 +98,6 @@ public class Ember
 <br/>
 
 * Az adatok feldolgozása után kérjen be egy tetszőleges nevet a program és ammenyiben egy adott ember szerepel a listában, akkor írja ki az adatait
-
 <br/><br/>Az adatok kiírása a következő formátumban legyen:
 <pre><code>zoli --- 187cm --- 33 éves --- Budapesti lakos
 </code></pre>
