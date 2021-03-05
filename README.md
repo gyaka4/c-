@@ -36,7 +36,7 @@ Csharp feladatok.
 
 ### 2020-03-05
 
-* Készíts egy programot amely egy megadott `emberek.txt` fájlt feldolgozza és a benne található emberek adatait egy `Ember` típusú listába menti.
+* Készíts egy programot amely a megadott `emberek.txt` fájlt feldolgozza és a benne található emberek adatait egy `Ember` típusú listába menti.
 <br/>
 emberek.txt //Az emberek előtt *** karakterek jelentik az elkülőnítést (avagy "ember vége" sort)
 <pre><code>***
@@ -98,14 +98,14 @@ public class Ember
 <br/>
 
 * Az adatok feldolgozása után kérjen be egy tetszőleges nevet a program és ammenyiben egy adott ember szerepel a listában, akkor írja ki az adatait
-Az adatok kiírása a következő formátumban legyen:
+<br/>Az adatok kiírása a következő formátumban legyen:
 <pre><code>zoli --- 187cm --- 33 éves --- Budapesti lakos
 </code></pre>
 
 <br/>
 
 * Abban az esetben, ha egy adott név alatt több ember is szerepel, akkor írja ki a program az összes ember adatait sorban.
-Az adatok kiírása a következő formátumban legyen:
+<br/>Az adatok kiírása a következő formátumban legyen:
 <pre><code>zoli --- 187cm --- 33 éves --- budapesti lakos
 peti --- 166cm --- 18 éves --- nem budapesti lakos
 </code></pre>
