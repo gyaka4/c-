@@ -38,7 +38,7 @@ Csharp feladatok.
 
 * Készíts egy programot amely a megadott `emberek.txt` fájlt feldolgozza és a benne található emberek adatait egy `Ember` típusú listába menti.
 <br/>
-emberek.txt //Az emberek előtt *** karakterek jelentik az elkülőnítést (avagy "ember vége" sort)
+emberek.txt //Az emberek előtt *** karakterek jelentik az elkülőnítést (avagy "új ember kezdete" sort)
 <pre><code>***
 zoli
 187
