@@ -96,16 +96,15 @@ public class Ember
 </code></pre>
 
 <br/>
-* Az adatok feldolgozása után kérjen be egy tetszőleges nevet a program és ammenyiben egy adott ember szerepel a listában, akkor írja ki az adatait
 
-<br/>
+* Az adatok feldolgozása után kérjen be egy tetszőleges nevet a program és ammenyiben egy adott ember szerepel a listában, akkor írja ki az adatait
 Az adatok kiírása a következő formátumban legyen:
 <pre><code>zoli --- 187cm --- 33 éves --- Budapesti lakos
 </code></pre>
 
 <br/>
+
 * Abban az esetben, ha egy adott név alatt több ember is szerepel, akkor írja ki a program az összes ember adatait sorban.
-<br/>
 Az adatok kiírása a következő formátumban legyen:
 <pre><code>zoli --- 187cm --- 33 éves --- budapesti lakos
 peti --- 166cm --- 18 éves --- nem budapesti lakos
