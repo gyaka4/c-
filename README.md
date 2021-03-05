@@ -98,6 +98,19 @@ public class Ember
 <br/>
 
 * Az adatok feldolgozása után kérjen be egy tetszőleges nevet a program és ammenyiben egy adott ember szerepel a listában, akkor írja ki az adatait
+
+<br/>Ember lista:
+<pre><code>					
+public class Program
+{
+	public static void Main()
+	{
+		List<Ember> emberek = new List<Ember>();
+		
+		emberek.Add(new Ember("zoli", 187, 33, true));
+	}
+}
+</code></pre>
 <br/><br/>Az adatok kiírása a következő formátumban legyen:
 <pre><code>zoli --- 187cm --- 33 éves --- Budapesti lakos
 </code></pre>
